@@ -1,18 +1,11 @@
-# Iris Flower Classification
+# OIBSIP Data Science Projects
 
-This project uses Machine Learning to classify Iris flowers into different species based on sepal and petal measurements.
+## Projects
 
-## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-
-## Dataset
-- iris.csv
-
-## Files
-- iris_classification.py
-- iris.csv
+1. Iris Flower Classification
+2. Unemployment Analysis
+3. Email Spam Detection
+4. Sales Prediction
 
 ## Author
 Jessy
